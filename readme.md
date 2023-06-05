@@ -1,6 +1,6 @@
 # BOS_Records - Online Transaction Records
 
-BOs_Records is an online record-keeping system for transactions related to the work done by our tractor. The main goal of this project is to keep track of transactions and provide an easy way to manage and view records. 
+BOS_Records is an online record-keeping system for transactions related to the work done by our tractor. The main goal of this project is to keep track of transactions and provide an easy way to manage and view records. 
 
 ## Features
 
