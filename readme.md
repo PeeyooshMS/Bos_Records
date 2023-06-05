@@ -8,6 +8,15 @@ BOS_Records is an online record-keeping system for transactions related to the w
 - **Online Records**: Store transaction details such as customer name, contact, address, service, service date, invoice number, invoice date, description, amount paid, remaining amount, and total payment.
 - **PDF Invoice Printing**: Generate PDF invoices for transactions, allowing easy printing and sharing of records.
 
+
+## Demo
+
+[![Tractor BOS Demo](http://img.youtube.com/vi/jefDhYr8cJo/0.jpg)](http://www.youtube.com/watch?v=jefDhYr8cJo)
+
+Click on the image above to watch the demo video on YouTube.
+
+
+
 ## Technologies Used
 
 - **Backend**: PHP (with PDO for database interaction)
